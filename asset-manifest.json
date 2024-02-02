@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactapp/static/css/main.3fd481dc.css",
+    "main.js": "/reactapp/static/js/main.70ea1cca.js",
+    "static/js/787.03c169d8.chunk.js": "/reactapp/static/js/787.03c169d8.chunk.js",
+    "static/media/img2.jpg": "/reactapp/static/media/img2.b18e2b1ee1c8c53d97de.jpg",
+    "static/media/img4.jpg": "/reactapp/static/media/img4.dcd34460f766d511888d.jpg",
+    "static/media/img1.jpg": "/reactapp/static/media/img1.f93012e6dc7298e1ee0a.jpg",
+    "static/media/pillowCover.jpg": "/reactapp/static/media/pillowCover.0290a284ce41048087af.jpg",
+    "static/media/ladiesDupatta.webp": "/reactapp/static/media/ladiesDupatta.94fe3c02e5ea3a07e016.webp",
+    "static/media/sofaCover.jpg": "/reactapp/static/media/sofaCover.57e3137c86f8ef21634e.jpg",
+    "static/media/bedsheetLogo.jpg": "/reactapp/static/media/bedsheetLogo.2ff0aaa825fbe5ad93dd.jpg",
+    "index.html": "/reactapp/index.html",
+    "main.3fd481dc.css.map": "/reactapp/static/css/main.3fd481dc.css.map",
+    "main.70ea1cca.js.map": "/reactapp/static/js/main.70ea1cca.js.map",
+    "787.03c169d8.chunk.js.map": "/reactapp/static/js/787.03c169d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fd481dc.css",
+    "static/js/main.70ea1cca.js"
+  ]
+}
