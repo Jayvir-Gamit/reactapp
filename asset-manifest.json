@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactapp/home/static/css/main.188d2bb1.css",
-    "main.js": "/reactapp/home/static/js/main.41b98301.js",
+    "main.css": "/reactapp/home/static/css/main.1179d556.css",
+    "main.js": "/reactapp/home/static/js/main.d4155870.js",
     "static/js/787.03c169d8.chunk.js": "/reactapp/home/static/js/787.03c169d8.chunk.js",
     "static/media/img2.jpg": "/reactapp/home/static/media/img2.b18e2b1ee1c8c53d97de.jpg",
     "static/media/img4.jpg": "/reactapp/home/static/media/img4.dcd34460f766d511888d.jpg",
@@ -25,17 +25,17 @@
     "static/media/sofa2.jpg": "/reactapp/home/static/media/sofa2.f22f842a2ec81d6362b9.jpg",
     "static/media/pillow4.jpg": "/reactapp/home/static/media/pillow4.9eb5fff82fe37005ffe1.jpg",
     "static/media/sofaCover.jpg": "/reactapp/home/static/media/sofaCover.57e3137c86f8ef21634e.jpg",
+    "static/media/dupatta3.webp": "/reactapp/home/static/media/dupatta3.118c41f38e28cac4dcdd.webp",
     "static/media/dupatta4.jpg": "/reactapp/home/static/media/dupatta4.d788781e7be7db08f098.jpg",
-    "static/media/dupatta3.webp": "/reactapp/home/static/media/dupatta3.352cb87dbc3e5e0048d5.webp",
     "static/media/dupatta2.webp": "/reactapp/home/static/media/dupatta2.07e701dcef515e6d8c9b.webp",
     "static/media/pillow3.jpg": "/reactapp/home/static/media/pillow3.3b390062d8d2455f006e.jpg",
     "index.html": "/reactapp/home/index.html",
-    "main.188d2bb1.css.map": "/reactapp/home/static/css/main.188d2bb1.css.map",
-    "main.41b98301.js.map": "/reactapp/home/static/js/main.41b98301.js.map",
+    "main.1179d556.css.map": "/reactapp/home/static/css/main.1179d556.css.map",
+    "main.d4155870.js.map": "/reactapp/home/static/js/main.d4155870.js.map",
     "787.03c169d8.chunk.js.map": "/reactapp/home/static/js/787.03c169d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.188d2bb1.css",
-    "static/js/main.41b98301.js"
+    "static/css/main.1179d556.css",
+    "static/js/main.d4155870.js"
   ]
 }
