@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactapp/static/css/main.1179d556.css",
-    "main.js": "/reactapp/static/js/main.ffacc595.js",
+    "main.css": "/reactapp/static/css/main.3f349392.css",
+    "main.js": "/reactapp/static/js/main.d05f8c80.js",
     "static/js/787.03c169d8.chunk.js": "/reactapp/static/js/787.03c169d8.chunk.js",
     "static/media/img2.jpg": "/reactapp/static/media/img2.b18e2b1ee1c8c53d97de.jpg",
     "static/media/img4.jpg": "/reactapp/static/media/img4.dcd34460f766d511888d.jpg",
@@ -30,12 +30,12 @@
     "static/media/dupatta2.webp": "/reactapp/static/media/dupatta2.07e701dcef515e6d8c9b.webp",
     "static/media/pillow3.jpg": "/reactapp/static/media/pillow3.3b390062d8d2455f006e.jpg",
     "index.html": "/reactapp/index.html",
-    "main.1179d556.css.map": "/reactapp/static/css/main.1179d556.css.map",
-    "main.ffacc595.js.map": "/reactapp/static/js/main.ffacc595.js.map",
+    "main.3f349392.css.map": "/reactapp/static/css/main.3f349392.css.map",
+    "main.d05f8c80.js.map": "/reactapp/static/js/main.d05f8c80.js.map",
     "787.03c169d8.chunk.js.map": "/reactapp/static/js/787.03c169d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1179d556.css",
-    "static/js/main.ffacc595.js"
+    "static/css/main.3f349392.css",
+    "static/js/main.d05f8c80.js"
   ]
 }
