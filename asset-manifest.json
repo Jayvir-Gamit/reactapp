@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jvgtextiles/static/css/main.3970c790.css",
-    "main.js": "/jvgtextiles/static/js/main.7af2e768.js",
+    "main.css": "/jvgtextiles/static/css/main.366d6d79.css",
+    "main.js": "/jvgtextiles/static/js/main.ff715dcb.js",
     "static/js/787.03c169d8.chunk.js": "/jvgtextiles/static/js/787.03c169d8.chunk.js",
     "static/media/fluid-color-2.gif": "/jvgtextiles/static/media/fluid-color-2.eec9dc9bb54292c2dc1c.gif",
     "static/media/slider1.png": "/jvgtextiles/static/media/slider1.25d79e9b8a6e2d607184.png",
@@ -9,12 +9,12 @@
     "static/media/slider2.jpg": "/jvgtextiles/static/media/slider2.d29238210e1a464ce3f0.jpg",
     "static/media/JVG-TEXTILES-LOGO-8.png": "/jvgtextiles/static/media/JVG-TEXTILES-LOGO-8.a2f623e0fb3db3512df4.png",
     "index.html": "/jvgtextiles/index.html",
-    "main.3970c790.css.map": "/jvgtextiles/static/css/main.3970c790.css.map",
-    "main.7af2e768.js.map": "/jvgtextiles/static/js/main.7af2e768.js.map",
+    "main.366d6d79.css.map": "/jvgtextiles/static/css/main.366d6d79.css.map",
+    "main.ff715dcb.js.map": "/jvgtextiles/static/js/main.ff715dcb.js.map",
     "787.03c169d8.chunk.js.map": "/jvgtextiles/static/js/787.03c169d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3970c790.css",
-    "static/js/main.7af2e768.js"
+    "static/css/main.366d6d79.css",
+    "static/js/main.ff715dcb.js"
   ]
 }
